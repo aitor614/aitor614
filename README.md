@@ -1,6 +1,6 @@
 # Bienvenidos 👋
 
-##😄 Acerca de Mí
+## 😄 Acerca de Mí
 
 ¡Hola! Soy un estudiante apasionado por la programación y un verdadero amante de la tecnología. Estoy en constante búsqueda de aprender y crecer en este fascinante campo.
 
@@ -12,15 +12,15 @@
 
 📚 Aprendizaje Continuo: Creo firmemente en el aprendizaje continuo y estoy siempre abierto a adquirir nuevos conocimientos y habilidades.
 
-###⚡ Mis Proyectos:
+### ⚡ Mis Proyectos:
 
 Aquí encontrarás una variedad de proyectos en los que he trabajado. Cada uno de ellos representa un paso más en mi viaje de aprendizaje. Te invito a explorarlos y a compartir tus comentarios o sugerencias.
 
-###👫 Colaboración:
+### 👫 Colaboración:
 
 Estoy abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o un proyecto en mente y crees que puedo aportar, ¡no dudes en contactarme!
 
-###📧 Contáctame en:
+### 📧 Contáctame en:
 
 Email: aitor614@gmail.com
 
