@@ -1,23 +1,34 @@
-### Hi there 👋\n
+### Bienbenidos 👋
 
-Acerca de Mí\n
-😄 ¡Hola! Soy un estudiante apasionado por la programación y un verdadero amante de la tecnología. Estoy en constante búsqueda de aprender y crecer en este fascinante campo.\n
+Acerca de Mí
 
-Mis Intereses\n
-🔭 Tecnología: Me encanta explorar las últimas tendencias y herramientas en el mundo de la tecnología.\n
-Programación: Actualmente, estoy centrado en mejorar mis habilidades de programación, abordando tanto fundamentos como tecnologías emergentes.\n
-Aprendizaje Continuo: Creo firmemente en el aprendizaje continuo y estoy siempre abierto a adquirir nuevos conocimientos y habilidades.\n
-Mis Proyectos\n
-⚡ Aquí encontrarás una variedad de proyectos en los que he trabajado. Cada uno de ellos representa un paso más en mi viaje de aprendizaje. Te invito a explorarlos y a compartir tus comentarios o sugerencias.\n
+😄 ¡Hola! Soy un estudiante apasionado por la programación y un verdadero amante de la tecnología. Estoy en constante búsqueda de aprender y crecer en este fascinante campo.
 
-Colaboración\n
-Estoy abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o un proyecto en mente y crees que puedo aportar, ¡no dudes en contactarme!º
+Mis Intereses:
 
-Contáctamen
-📧 Email: aitor614@gmail.com\n
-💼 LinkedIn: linkedin.com/in/aitorsanchezcervantes\n
-🐦 Twitter: @aitor614\n
-¡Gracias por visitar mi página de GitHub!\n
+🔭 Tecnología: Me encanta explorar las últimas tendencias y herramientas en el mundo de la tecnología.
+
+Programación: Actualmente, estoy centrado en mejorar mis habilidades de programación, abordando tanto fundamentos como tecnologías emergentes.
+
+Aprendizaje Continuo: Creo firmemente en el aprendizaje continuo y estoy siempre abierto a adquirir nuevos conocimientos y habilidades.
+
+Mis Proyectos:
+
+⚡ Aquí encontrarás una variedad de proyectos en los que he trabajado. Cada uno de ellos representa un paso más en mi viaje de aprendizaje. Te invito a explorarlos y a compartir tus comentarios o sugerencias.
+
+Colaboración:
+
+Estoy abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o un proyecto en mente y crees que puedo aportar, ¡no dudes en contactarme!
+
+Contáctame en:
+
+📧 Email: aitor614@gmail.com
+
+💼 LinkedIn: linkedin.com/in/aitorsanchezcervantes
+
+🐦 Twitter: @aitor614
+
+¡Gracias por visitar mi página de GitHub!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
